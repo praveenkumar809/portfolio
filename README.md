@@ -13,8 +13,7 @@ organizational goals.
 * ***Automation Tools*** : Knime, Power BI
 * ***Other*** : Data Validation, Predictive Analysis, Report Generation
   
-### Work Experience
-**Data Engineer, Tranzita System**                                              Feb 2021 - Present
-***Project:*** OLA RCA(Online Availability Root Cause Analysis) | ***Client:***P&G, Mumbai | ***Role:***Data Engineer
+### WORK EXPERIENCE
+I developed and maintained systems to ensure seamless information accessibility and smooth integration across various platforms. I streamlined processes for gathering and transforming data, identifying inefficiencies that led to significant workflow improvements. By creating methods that reduced manual tasks by 90%, I improved operational efficiency and played a key role in enhancing processes for major e-commerce platforms, minimizing manual interventions by the same margin. Additionally, I implemented solutions that reduced data retrieval times by 80% and boosted overall system performance by 85%. To ensure the reliability of stored information, I introduced quality checks that improved accuracy by 95%. Lastly, I automated system performance tracking, which reduced downtime by 70% and enabled faster issue resolution.
 
 
