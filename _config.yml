@@ -1,6 +1,6 @@
 title: Praveen Kumar
 logo: praveenpic-modified.png
-# description: praveenkumar809.github.io
-# show_downloads: true
-resume_link: "Praveen_Kumar_DataEngineer.pdf"
-theme: jekyll-theme-minimal
+show_downloads: true
+# resume_link: "Praveen_Kumar_DataEngineer.pdf"
+# theme: jekyll-theme-minimal
+theme: jekyll-remote-theme
