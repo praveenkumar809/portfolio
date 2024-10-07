@@ -1,5 +1,7 @@
 title: Praveen Kumar
-logo: praveenpic.jpg
+# logo: praveenpic.jpg
+<img src="/assets/praveenpic.jpg" class="circular-logo">
+
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
