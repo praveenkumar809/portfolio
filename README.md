@@ -13,8 +13,8 @@ organizational goals.
 * ***Automation Tools*** : Knime, Power BI
 * ***Other*** : Data Validation, Predictive Analysis, Report Generation
   
-### Projects
-Ola
-osa
-demand forecasting
+### Work Experience
+**Data Engineer, Tranzita System**                                              Feb 2021 - Present
+***Project:*** OLA RCA(Online Availability Root Cause Analysis) | ***Client:***P&G, Mumbai | ***Role:***Data Engineer
+
 
