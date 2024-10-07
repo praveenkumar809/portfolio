@@ -3,4 +3,8 @@ logo: praveenpic-modified.png
 show_downloads: true
 # resume_link: "Praveen_Kumar_DataEngineer.pdf"
 # theme: jekyll-theme-minimal
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
+# theme: minima
+theme: jekyll-theme-time-machine
+
+
