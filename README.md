@@ -16,6 +16,6 @@ Utilizing **PySpark** within **Azure Databricks**, I optimized data processing, 
 
 To further enhance system resilience, I automated performance monitoring with **Azure Monitor**, **Log Analytics**, and custom **Python scripts**, reducing downtimes by 70% and enabling faster issue resolution. This robust data ecosystem empowered teams with timely, high-quality insights, significantly strengthening business operations and strategic decisions.
 
-[Download My Resume](assets/resume.pdf)
+[Download My Resume](Praveen_Kumar_DataEngineer.pdf)
 
 
