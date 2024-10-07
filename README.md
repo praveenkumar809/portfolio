@@ -7,11 +7,11 @@ measures. Dedicated to transforming complex datasets into actionable insights th
 organizational goals.
 
 ### SKILLS
-- ***Programming*** : Python, SQL
-- ***Cloud Platforms*** : Azure Data Factory, Azure Databricks, Azure Function Apps, Durable Function Apps
-- ***Data Processing*** : PySpark, Pandas, ETL
-- ***Automation Tools*** : Knime, Power BI
-- ***Other*** : Data Validation, Predictive Analysis, Report Generation
+* ***Programming*** : Python, SQL
+* ***Cloud Platforms*** : Azure Data Factory, Azure Databricks, Azure Function Apps, Durable Function Apps
+* ***Data Processing*** : PySpark, Pandas, ETL
+* ***Automation Tools*** : Knime, Power BI
+* ***Other*** : Data Validation, Predictive Analysis, Report Generation
   
 ### Projects
 Ola
