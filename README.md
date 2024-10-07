@@ -1,10 +1,6 @@
 # Data Engineer
 ### SUMMARY
-Experienced Data Engineer with over 3.6+ years of expertise in leveraging advanced technologies for smooth
-collaboration and data analysis. Proficient in SQL, Python, and Azure services such as Azure Data Factory, Azure 
-Databricks, Azure Function App, and PySpark. Skilled in ETL development, report generation, and data security
-measures. Dedicated to transforming complex datasets into actionable insights that align technical solutions with 
-organizational goals.
+Experienced Data Engineer with over 3.6+ years of expertise in utilizing advanced technologies to enhance collaboration and facilitate data analysis. Adept at developing efficient processes for data extraction, transformation, and loading, as well as generating insightful reports and implementing robust data security measures. Committed to converting intricate datasets into actionable insights that align technical solutions with the strategic objectives of the organization.
 
 ### SKILLS
 * ***Programming*** : Python, SQL
@@ -14,6 +10,10 @@ organizational goals.
 * ***Other*** : Data Validation, Predictive Analysis, Report Generation
   
 ### WORK EXPERIENCE
-I developed and maintained systems to ensure seamless information accessibility and smooth integration across various platforms. I streamlined processes for gathering and transforming data, identifying inefficiencies that led to significant workflow improvements. By creating methods that reduced manual tasks by 90%, I improved operational efficiency and played a key role in enhancing processes for major e-commerce platforms, minimizing manual interventions by the same margin. Additionally, I implemented solutions that reduced data retrieval times by 80% and boosted overall system performance by 85%. To ensure the reliability of stored information, I introduced quality checks that improved accuracy by 95%. Lastly, I automated system performance tracking, which reduced downtime by 70% and enabled faster issue resolution.
+I developed and maintained systems for seamless information accessibility and smooth integration across various platforms using Azure Data Factory, Azure Databricks, PySpark, SQL, Python, and KNIME. By streamlining data gathering and transformation processes through efficient ETL pipelines and SQL stored procedures, I identified bottlenecks and reduced manual interventions by 90%, enhancing operational efficiency for major e-commerce platforms like Amazon, Nykaa, and Flipkart.
+
+Utilizing PySpark within Azure Databricks, I optimized data processing, achieving an 80% reduction in data retrieval times and an 85% improvement in overall system performance. I ensured high data integrity through validation processes that improved accuracy by 95%, facilitating quicker, more reliable decision-making across the business.
+
+To further enhance system resilience, I automated performance monitoring with Azure Monitor, Log Analytics, and custom Python scripts, reducing downtimes by 70% and enabling faster issue resolution. This robust data ecosystem empowered teams with timely, high-quality insights, significantly strengthening business operations and strategic decisions.
 
 
